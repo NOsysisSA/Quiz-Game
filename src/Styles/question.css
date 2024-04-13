@@ -1,0 +1,14 @@
+.question{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 600px;
+    height: 750px;
+    font-size: 22px;
+}
+button{
+    margin: 20px;
+}
